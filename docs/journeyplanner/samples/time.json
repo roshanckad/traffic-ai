@@ -1,0 +1,3921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 335,
+        "name": "12 Queenstown Road to Auckland City Centre",
+        "page": {
+          "line": [
+            {
+              "left": "SH1 GILLIES",
+              "right": 14
+            },
+            {
+              "left": "CITY CENTRE",
+              "right": 20
+            },
+            {
+              "left": "SH1 BRIDGE",
+              "right": 22
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 4,
+        "journey": {
+          "id": 4,
+          "name": "SH20",
+          "startLatitude": -36.9959578440261,
+          "startLongitude": 174.886300687323,
+          "endLatitude": -36.9364801431861,
+          "endLongitude": 174.789597693286,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "SH1 to SH20A",
+          "totalLength": 11.1947016350928,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76747736519, -36.919460792967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 341,
+        "name": "12 Auckland City Centre to Auckland Airport",
+        "page": {
+          "line": [
+            {
+              "left": "SH1 GILLIES",
+              "right": 7
+            },
+            {
+              "left": "SH20",
+              "right": 19
+            },
+            {
+              "left": "AIRPORT",
+              "right": 32
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 1,
+        "journey": {
+          "id": 1,
+          "name": "SH16",
+          "startLatitude": -36.847811504477,
+          "startLongitude": 174.783517320098,
+          "endLatitude": -36.5479085640057,
+          "endLongitude": 174.465598430475,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Great North to St Lukes",
+          "totalLength": 3.75283785188641,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76441593169, -36.850805398074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 346,
+        "name": "Site 4 71 Dominion Road : DOM4OB",
+        "page": {
+          "line": [
+            {
+              "left": "BALMORAL",
+              "right": 5
+            },
+            {
+              "left": "SH20",
+              "right": 12
+            },
+            {
+              "left": "AIRPORT",
+              "right": 27
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 1,
+        "journey": {
+          "id": 1,
+          "name": "SH16",
+          "startLatitude": -36.847811504477,
+          "startLongitude": 174.783517320098,
+          "endLatitude": -36.5479085640057,
+          "endLongitude": 174.465598430475,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Newton to St Lukes",
+          "totalLength": 2.85022607526862,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.75294515681, -36.870261566269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 348,
+        "name": "Site 6 Bond Street : BON6OB",
+        "page": {
+          "line": [
+            {
+              "left": "SH20",
+              "right": 13
+            },
+            {
+              "left": "AIRPORT",
+              "right": 30
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 1,
+        "journey": {
+          "id": 1,
+          "name": "SH16",
+          "startLatitude": -36.847811504477,
+          "startLongitude": 174.783517320098,
+          "endLatitude": -36.5479085640057,
+          "endLongitude": 174.465598430475,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Newton to St Lukes",
+          "totalLength": 2.85022607526862,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.74644348221, -36.868888269454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 483,
+        "name": "WAI01 - WAIPARA (N)",
+        "page": {
+          "line": [
+            {
+              "center": "TO PICTON"
+            },
+            {
+              "left": "SH1",
+              "right": "3h 46m"
+            },
+            {
+              "left": "SH7,65,62",
+              "right": "5h 24m"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 86,
+        "journey": {
+          "id": 86,
+          "name": "SH1",
+          "startLatitude": -41.9545198383006,
+          "startLongitude": 174.060271008514,
+          "endLatitude": -44.8373653945823,
+          "endLongitude": 171.076765182944,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Omihi to Sefton",
+          "totalLength": 36.56,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.749776, -43.074793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 496,
+        "name": "WCC NB Cuba / Karo Drive",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 9
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 16
+            },
+            {
+              "left": "PETONE ",
+              "right": 13
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Evans Bay to Basin Reserve",
+          "totalLength": 3.745,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77362300663, -41.297195377401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 517,
+        "name": "SH1 NS Newlands NLDS",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 10
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 18
+            },
+            {
+              "left": "PETONE ",
+              "right": 10
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Tawa to Ngauranga",
+          "totalLength": 8.31,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.81312907822, -41.231409459098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 537,
+        "name": "WCC NS Tinakori Rd",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 7
+            },
+            {
+              "left": "PETONE ",
+              "right": 11
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 13
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Ngauranga to Terrace Tunnel",
+          "totalLength": 5.735,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77511636875, -41.27388806251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 539,
+        "name": "WCC NB Taranaki St",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 9
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 17
+            },
+            {
+              "left": "PETONE ",
+              "right": 13
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Evans Bay to Basin Reserve",
+          "totalLength": 3.745,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77633660937, -41.297121930484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 552,
+        "name": "WCC NB Victoria St",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 8
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 16
+            },
+            {
+              "left": "PETONE ",
+              "right": 12
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Basin Reserve to Evans Bay",
+          "totalLength": 3.64,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77236968532, -41.29482073234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 591,
+        "name": "WCC BOU01 - BOULCOTT STREET (N)",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 7
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 14
+            },
+            {
+              "left": "PETONE ",
+              "right": 11
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Ngauranga to Terrace Tunnel",
+          "totalLength": 5.718,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77365906421, -41.285851802824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 633,
+        "name": "09 E1 St Lukes Rd R091E",
+        "page": {
+          "line": [
+            {
+              "left": "DOMINION Rd",
+              "right": 8
+            },
+            {
+              "left": "MANUKAU Rd",
+              "right": 15
+            },
+            {
+              "left": "SH1",
+              "right": 21
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 1,
+        "journey": {
+          "id": 1,
+          "name": "SH16",
+          "startLatitude": -36.847811504477,
+          "startLongitude": 174.783517320098,
+          "endLatitude": -36.5479085640057,
+          "endLongitude": 174.465598430475,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Newton to St Lukes",
+          "totalLength": 2.85022607526862,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.72604260054, -36.8717035009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 642,
+        "name": "09 W1 Greenlane East R091W",
+        "page": {
+          "line": [
+            {
+              "left": "MANUKAU Rd",
+              "right": 5
+            },
+            {
+              "left": "DOMINION Rd",
+              "right": 11
+            },
+            {
+              "left": "SH16",
+              "right": 21
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Redoubt Rd to Hobson St",
+          "totalLength": 20.2834915395392,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.79565665352, -36.890017140919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 809,
+        "name": "1097 Dominion Road DOM2IB - SH20",
+        "page": {
+          "line": [
+            {
+              "left": "BALMORAL",
+              "right": 6
+            },
+            {
+              "left": "NEW NORTH",
+              "right": 11
+            },
+            {
+              "left": "CITY CENTRE",
+              "right": 16
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 4,
+        "journey": {
+          "id": 4,
+          "name": "SH20",
+          "startLatitude": -36.9959578440261,
+          "startLongitude": 174.886300687323,
+          "endLatitude": -36.9364801431861,
+          "endLongitude": 174.789597693286,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "SH1 to SH20A",
+          "totalLength": 11.1947016350928,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.73971113764, -36.910402417025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 918,
+        "name": "Willis / Karo (V)",
+        "page": {
+          "line": [
+            {
+              "left": "Johnsonville",
+              "right": 8
+            },
+            {
+              "left": "Porirua",
+              "right": 16
+            },
+            {
+              "left": "Paekakariki",
+              "right": 33
+            },
+            {
+              "left": "Paraparaumu",
+              "right": 38
+            },
+            {
+              "left": "Waikanae",
+              "right": 43
+            },
+            {
+              "left": "Petone",
+              "right": 12
+            },
+            {
+              "left": "Manor Park",
+              "right": 21
+            }
+          ],
+          "pageTime": 0
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Evans Bay to Basin Reserve",
+          "totalLength": 3.745,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77146506687, -41.295773951591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 924,
+        "name": "SH1 NB Willis / Karo",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE",
+              "right": 8
+            },
+            {
+              "left": "PORIRUA",
+              "right": 16
+            },
+            {
+              "left": "PETONE",
+              "right": 12
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Evans Bay to Basin Reserve",
+          "totalLength": 3.745,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.77108420314, -41.295251740836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 925,
+        "name": "SH59 NB Whitford Brown",
+        "page": {
+          "line": [
+            {
+              "left": "PAEKAKARIKI ",
+              "right": 17
+            },
+            {
+              "left": "PARAPARAUMU ",
+              "right": 28
+            },
+            {
+              "left": "WAIKANAE ",
+              "right": 33
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 341,
+        "journey": {
+          "id": 341,
+          "name": "SH59",
+          "startLatitude": -40.9710049586055,
+          "startLongitude": 174.983299964111,
+          "endLatitude": -41.1569702679807,
+          "endLongitude": 174.838205130616,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Paremata to Keneperu Interchange",
+          "totalLength": 6.538,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.85677614922, -41.118130083608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 936,
+        "name": "SH59 POR01 - PORIRUA (S)",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 19
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 27
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 341,
+        "journey": {
+          "id": 341,
+          "name": "SH59",
+          "startLatitude": -40.9710049586055,
+          "startLongitude": 174.983299964111,
+          "endLatitude": -41.1569702679807,
+          "endLongitude": 174.838205130616,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Paremata to Keneperu Interchange",
+          "totalLength": 6.538,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.85152974883, -41.123149202318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 937,
+        "name": "SH1 SB Johnsonville VMS01",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 11
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 19
+            },
+            {
+              "left": "PETONE ",
+              "right": 11
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Tawa to Ngauranga",
+          "totalLength": 8.31,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.81101766463, -41.218802679294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 938,
+        "name": "SH1 TWA01 - TAWA (S)",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 14
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 22
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Keneperu Interchange to Tawa",
+          "totalLength": 3.41358784667867,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.83005866426, -41.177955564506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 941,
+        "name": "SH2 Manor Park - Southwest",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 21
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 30
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Silverstream to Lower Hutt",
+          "totalLength": 2.799,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.97631415528, -41.157837016911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 942,
+        "name": "BLM01 - Belmont (S)",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 18
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 27
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Lower Hutt to Petone",
+          "totalLength": 12.85,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.94397744306, -41.181678151029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 943,
+        "name": "C SH2 NS KGB01 Kennedy Good Bridge",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 18
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 26
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Lower Hutt to Petone",
+          "totalLength": 12.85,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.93130668886, -41.194184814851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 944,
+        "name": "D SH2 NS MEL01 Melling Bridge",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 14
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 24
+            },
+            {
+              "left": "UPPER HUTT ",
+              "right": 18
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Lower Hutt to Petone",
+          "totalLength": 12.85,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.90696296012, -41.204154523334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 945,
+        "name": "E SH2 SB Petone",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 8
+            },
+            {
+              "left": "TAWA ",
+              "right": 15
+            },
+            {
+              "left": "WGTN CBD ",
+              "right": 11
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 20
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Lower Hutt to Petone",
+          "totalLength": 12.85,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.86158534878, -41.224057105984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 947,
+        "name": "SH2 NW LIV01 Liverton",
+        "page": {
+          "line": [
+            {
+              "left": "FEATHERSTON ",
+              "right": 39
+            },
+            {
+              "left": "PAREMATA ",
+              "right": 19
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Petone to Lower Hutt",
+          "totalLength": 12.8569154941295,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.94839772293, -41.176913848385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 970,
+        "name": "WMK01 - WAIMAKARIRI (N)",
+        "page": {
+          "line": [
+            {
+              "center": "TRAVEL TIMES"
+            },
+            {
+              "left": "LINESIDE",
+              "right": 4
+            },
+            {
+              "left": "WOODEND",
+              "right": 9
+            },
+            {
+              "left": "PEGASUS",
+              "right": 11
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 86,
+        "journey": {
+          "id": 86,
+          "name": "SH1",
+          "startLatitude": -41.9545198383006,
+          "startLongitude": 174.060271008514,
+          "endLatitude": -44.8373653945823,
+          "endLongitude": 171.076765182944,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Northwood to Clarkville",
+          "totalLength": 5.68360811166874,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.64715673797, -43.417087453863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 973,
+        "name": "WLG - WCC NB Aotea Quay",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 6
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 13
+            },
+            {
+              "left": "PETONE ",
+              "right": 9
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Ngauranga to Terrace Tunnel",
+          "totalLength": 5.718,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.78626550699, -41.270371441923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 985,
+        "name": "WLG - SH1 NB Wellington Rd",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 6
+            },
+            {
+              "left": "J'VILLE",
+              "right": 14
+            },
+            {
+              "left": "PETONE",
+              "right": 20
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Evans Bay to Basin Reserve",
+          "totalLength": 3.745,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.79154750853, -41.312048910413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1001,
+        "name": "Molesworth Street",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE",
+              "right": 7
+            },
+            {
+              "left": "PORIRUA",
+              "right": 14
+            },
+            {
+              "left": "PETONE",
+              "right": 11
+            }
+          ],
+          "pageTime": 6
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Ngauranga to Terrace Tunnel",
+          "totalLength": 5.718,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.777689, -41.276193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1002,
+        "name": "Tinakori Rd NB",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE",
+              "right": 6
+            },
+            {
+              "left": "PETONE ",
+              "right": 10
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 13
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Ngauranga to Terrace Tunnel",
+          "totalLength": 5.735,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.772006, -41.276351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1003,
+        "name": "52 Paremata Cres",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE",
+              "right": 15
+            },
+            {
+              "left": "WGTN CBD ",
+              "right": 21
+            },
+            {
+              "left": "WAIKANAE",
+              "right": 25
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 12,
+        "journey": {
+          "id": 12,
+          "name": "SH58",
+          "startLatitude": -41.1579142191899,
+          "startLongitude": 174.974424523849,
+          "endLatitude": -41.1059596376351,
+          "endLongitude": 174.868260439264,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Pauatahanui to Paremata (SH59)",
+          "totalLength": 5.536,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.8691957, -41.1055627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1004,
+        "name": "Takapu Road",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 16
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 23
+            },
+            {
+              "left": "PORIRUA",
+              "right": 5
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Keneperu Interchange to Tawa",
+          "totalLength": 3.41358784667867,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.834915, -41.181506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1005,
+        "name": "Titahi Bay",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE",
+              "right": 10
+            },
+            {
+              "left": "WGTN CBD ",
+              "right": 19
+            },
+            {
+              "left": "PETONE ",
+              "right": 19
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 341,
+        "journey": {
+          "id": 341,
+          "name": "SH59",
+          "startLatitude": -40.9710049586055,
+          "startLongitude": 174.983299964111,
+          "endLatitude": -41.1569702679807,
+          "endLongitude": 174.838205130616,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Paremata to Keneperu Interchange",
+          "totalLength": 6.538,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.838042, -41.134989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1010,
+        "name": "Johnsonville SB on Ramp",
+        "page": {
+          "line": [
+            {
+              "left": "WGTN CBD ",
+              "right": 10
+            },
+            {
+              "left": "AIRPORT ",
+              "right": 19
+            },
+            {
+              "left": "PETONE ",
+              "right": 10
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Tawa to Ngauranga",
+          "totalLength": 8.265,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.807756, -41.227379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1024,
+        "name": "AKL - Don Buck Road",
+        "page": {
+          "line": [
+            {
+              "left": "SH16",
+              "right": 8
+            },
+            {
+              "left": "Henderson",
+              "right": 7
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 1,
+        "journey": {
+          "id": 1,
+          "name": "SH16",
+          "startLatitude": -36.847811504477,
+          "startLongitude": 174.783517320098,
+          "endLatitude": -36.5479085640057,
+          "endLongitude": 174.465598430475,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Te Atatu to Taupake Road",
+          "totalLength": 11.348,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6094693, -36.85867585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1037,
+        "name": "The Terrace (NS)",
+        "page": {
+          "line": [
+            {
+              "left": "AIRPORT ",
+              "right": 14
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 16
+            },
+            {
+              "left": "PETONE ",
+              "right": 12
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Ngauranga to Terrace Tunnel",
+          "totalLength": 5.718,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.774728, -41.284185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1043,
+        "name": "WLG - Te Moana Road (W) ",
+        "page": {
+          "line": [
+            {
+              "left": "OTAKI ",
+              "right": 14
+            },
+            {
+              "left": "LEVIN ",
+              "right": 32
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 30
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Waikanae to Paraparaumu",
+          "totalLength": 5.49981082438978,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.03554224968, -40.8706856296454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1045,
+        "name": "Kapiti Road (W)",
+        "page": {
+          "line": [
+            {
+              "left": "OTAKI ",
+              "right": 17
+            },
+            {
+              "left": "LEVIN ",
+              "right": 35
+            },
+            {
+              "left": "PORIRUA ",
+              "right": 28
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Paraparaumu to McKays Crossing",
+          "totalLength": 7.34187699700785,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.000298023224, -40.9093491046019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1050,
+        "name": "SH1 NB NLDS-NB Newlands",
+        "page": {
+          "line": [
+            {
+              "left": "PORIRUA",
+              "right": 9
+            },
+            {
+              "left": "OTAKI",
+              "right": 48
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Tawa to Ngauranga",
+          "totalLength": 8.265,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.80535, -41.23785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1053,
+        "name": "SH2 SB HUTTRD-OFF Hutt Road",
+        "page": {
+          "line": [
+            {
+              "left": "AIRPORT VIA SH1",
+              "right": 17
+            },
+            {
+              "left": "WGTN CBD",
+              "right": 8
+            },
+            {
+              "left": "OTAKI",
+              "right": 50
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 9,
+        "journey": {
+          "id": 9,
+          "name": "SH2",
+          "startLatitude": -40.744160779371,
+          "startLongitude": 175.609165520197,
+          "endLatitude": -41.2269136235558,
+          "endLongitude": 174.850023532623,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Petone to Nauranga",
+          "totalLength": 4.10508398301439,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.824162, -41.241207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1080,
+        "name": "HEL01 Hellers (S)",
+        "page": {
+          "line": [
+            {
+              "left": "AIRPORT (SH1) ",
+              "right": 14
+            },
+            {
+              "left": "BEALEY AVE ",
+              "right": 12
+            },
+            {
+              "left": "PAPANUI (MAIN NTH RD) ",
+              "right": 8
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 86,
+        "journey": {
+          "id": 86,
+          "name": "SH1",
+          "startLatitude": -41.9545198383006,
+          "startLongitude": 174.060271008514,
+          "endLatitude": -44.8373653945823,
+          "endLongitude": 171.076765182944,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Kaiapoi to Clarkville",
+          "totalLength": 4.657,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6438105, -43.4047368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1081,
+        "name": "WMK02 Waimakariri Bridge (S)",
+        "page": {
+          "line": [
+            {
+              "left": "AIRPORT (SH1) ",
+              "right": 13
+            },
+            {
+              "left": "BEALEY AVE ",
+              "right": 12
+            },
+            {
+              "left": "PAPANUI (MAIN NTH RD) ",
+              "right": 7
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 86,
+        "journey": {
+          "id": 86,
+          "name": "SH1",
+          "startLatitude": -41.9545198383006,
+          "startLongitude": 174.060271008514,
+          "endLatitude": -44.8373653945823,
+          "endLongitude": 171.076765182944,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Clarkville to Northwood",
+          "totalLength": 5.769,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6474662, -43.4170249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1082,
+        "name": "QED02 Queen Elizebeth Dr (N) VMS",
+        "page": {
+          "line": [
+            {
+              "center": "TRAVEL TIMES"
+            },
+            {
+              "left": "TRAM RD",
+              "right": 5
+            },
+            {
+              "left": "OHOKA RD",
+              "right": 7
+            },
+            {
+              "left": "LINESIDE",
+              "right": 7
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 339,
+        "journey": {
+          "id": 339,
+          "name": "CNC",
+          "startLatitude": -43.4860330423372,
+          "startLongitude": 172.629822354726,
+          "endLatitude": -43.4544554077142,
+          "endLongitude": 172.644148644127,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Belfast to QEII",
+          "totalLength": 5.2880096152163,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.62991382446, -43.477227177555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1083,
+        "name": "BFS01 Belfast Rd (E) VMS",
+        "page": {
+          "line": [
+            {
+              "center": "TRAVEL TIMES"
+            },
+            {
+              "left": "QE2 DR",
+              "right": 3
+            },
+            {
+              "left": "BEALEY AVE",
+              "right": 10
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 339,
+        "journey": {
+          "id": 339,
+          "name": "CNC",
+          "startLatitude": -43.4860330423372,
+          "startLongitude": 172.629822354726,
+          "endLatitude": -43.4544554077142,
+          "endLongitude": 172.644148644127,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "QEII to Belfast",
+          "totalLength": 3.82662830397665,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.64703024195, -43.454815422616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1084,
+        "name": "BFS02 Belfast Rd (W) VMS",
+        "page": {
+          "line": [
+            {
+              "center": "TRAVEL TIMES"
+            },
+            {
+              "left": "QE2 DR",
+              "right": 4
+            },
+            {
+              "left": "BEALEY AVE",
+              "right": 10
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 339,
+        "journey": {
+          "id": 339,
+          "name": "CNC",
+          "startLatitude": -43.4860330423372,
+          "startLongitude": 172.629822354726,
+          "endLatitude": -43.4544554077142,
+          "endLongitude": 172.644148644127,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Belfast to Waimakariri",
+          "totalLength": 5.63155755502241,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.64179456979, -43.453195440777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1085,
+        "name": "GRM01 QEII Grimseys (E) VMS",
+        "page": {
+          "line": [
+            {
+              "left": "PORT",
+              "right": 26
+            },
+            {
+              "left": "BEALEY AVE",
+              "right": 8
+            },
+            {
+              "left": "TRAM RD",
+              "right": 6
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 89,
+        "journey": {
+          "id": 89,
+          "name": "SH74",
+          "startLatitude": -43.4511873618317,
+          "startLongitude": 172.628539425314,
+          "endLatitude": -43.5734094495945,
+          "endLongitude": 172.696611678484,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Shirley to Redwood",
+          "totalLength": 3.697,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.625129, -43.4854875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1099,
+        "name": "AHB - May Rd - NB",
+        "page": {
+          "line": [
+            {
+              "center": "ALBANY VIA"
+            },
+            {
+              "left": "SH1",
+              "right": "20 MINS"
+            },
+            {
+              "left": "SH16/18",
+              "right": "23 MINS"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 4,
+        "journey": {
+          "id": 4,
+          "name": "SH20",
+          "startLatitude": -36.9959578440261,
+          "startLongitude": 174.886300687323,
+          "endLatitude": -36.9364801431861,
+          "endLongitude": 174.789597693286,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "SH20A to SH1",
+          "totalLength": 11.21,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.733468, -36.90943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1102,
+        "name": "AHB - Mountain Rd - NB",
+        "page": {
+          "line": [
+            {
+              "center": "ALBANY VIA"
+            },
+            {
+              "left": "SH1",
+              "right": "14 MINS"
+            },
+            {
+              "left": "SH16/18",
+              "right": "37 MINS"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Redoubt Rd to Hobson St",
+          "totalLength": 20.2834915395392,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7697246, -36.8686391769062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1103,
+        "name": "AHB - Newmarket - NB",
+        "page": {
+          "line": [
+            {
+              "center": "ALBANY VIA"
+            },
+            {
+              "left": "SH1",
+              "right": "16 MINS"
+            },
+            {
+              "left": "SH16/18",
+              "right": "39 MINS"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Redoubt Rd to Hobson St",
+          "totalLength": 20.2834915395392,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.783838, -36.879367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1104,
+        "name": "AHB - Orams Rd - NB",
+        "page": {
+          "line": [
+            {
+              "center": "ALBANY VIA"
+            },
+            {
+              "center": "SH1: 29 MINS"
+            },
+            {
+              "center": "SH20/16/18: 38 MINS"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Redoubt Rd to Papakura",
+          "totalLength": 10.0506356035666,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.897968, -37.006672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1107,
+        "name": "CHC - WIN01 QEII Winters (W)",
+        "page": {
+          "line": [
+            {
+              "left": "AIRPORT",
+              "right": 14
+            },
+            {
+              "left": "BEALEY AVE",
+              "right": 7
+            },
+            {
+              "left": "TRAM RD",
+              "right": 6
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 89,
+        "journey": {
+          "id": 89,
+          "name": "SH74",
+          "startLatitude": -43.4511873618317,
+          "startLongitude": 172.628539425314,
+          "endLatitude": -43.5734094495945,
+          "endLongitude": 172.696611678484,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Shirley to Redwood",
+          "totalLength": 3.697,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.632577, -43.4875531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1114,
+        "name": "KEN01 Kenepuru north-bound VMS (Bus Stop)",
+        "page": {
+          "line": [
+            {
+              "left": "PAEKAKARIKI ",
+              "right": 22
+            },
+            {
+              "left": "PARAPARAUMU ",
+              "right": 25
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 341,
+        "journey": {
+          "id": 341,
+          "name": "SH59",
+          "startLatitude": -40.9710049586055,
+          "startLongitude": 174.983299964111,
+          "endLatitude": -41.1569702679807,
+          "endLongitude": 174.838205130616,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Paremata to Keneperu Interchange",
+          "totalLength": 6.538,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.834276, -41.148794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1118,
+        "name": "SH1 - Waterfall Road (S) ",
+        "page": {
+          "line": [
+            {
+              "left": "PLIMMERTON ",
+              "right": 16
+            },
+            {
+              "center": "VIA SH59"
+            },
+            {
+              "left": "PORIRUA",
+              "right": 18
+            },
+            {
+              "center": "VIA SH1"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Paraparaumu to McKays Crossing",
+          "totalLength": 7.34821647067114,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.988242, -40.95422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1124,
+        "name": "WLG - TG01S5 - Whitby",
+        "page": {
+          "line": [
+            {
+              "left": "J'VILLE ",
+              "right": 12
+            },
+            {
+              "left": "WGTN CBD ",
+              "right": 21
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Pauatahanui (SH58) to Waitangirua",
+          "totalLength": 2.65576230024872,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.914905, -41.11728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1125,
+        "name": "WLG - TG01N3 - Waitangirua",
+        "page": {
+          "line": [
+            {
+              "left": "LOWER HUTT ",
+              "right": 19
+            },
+            {
+              "left": "UPPER HUTT ",
+              "right": 23
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Pauatahanui (SH58) to Waitangirua",
+          "totalLength": 2.65743307102662,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.906284, -41.124515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1126,
+        "name": "WLG - TG01N2 - Duck Creek",
+        "page": {
+          "line": [
+            {
+              "left": "LEVIN ",
+              "right": 54
+            },
+            {
+              "left": "OTAKI ",
+              "right": 35
+            },
+            {
+              "left": "PARAPARAUMU",
+              "right": 21
+            },
+            {
+              "left": "WAIKANAE",
+              "right": 28
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Waitangirua to Keneperu Interchange",
+          "totalLength": 7.04953777744036,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.888179, -41.146164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1132,
+        "name": "Amberley - AMB01",
+        "page": {
+          "line": [
+            {
+              "left": "KAIAPOI",
+              "right": 18
+            },
+            {
+              "left": "CBD",
+              "right": 37
+            },
+            {
+              "left": "AIRPORT",
+              "right": 37
+            },
+            {
+              "left": "LYTTELTON",
+              "right": 54
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 11,
+          "name": "Canterbury"
+        },
+        "TasJourneyId": 86,
+        "journey": {
+          "id": 86,
+          "name": "SH1",
+          "startLatitude": -41.9545198383006,
+          "startLongitude": 174.060271008514,
+          "endLatitude": -44.8373653945823,
+          "endLongitude": 171.076765182944,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Omihi to Sefton",
+          "totalLength": 36.56,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.730002478898, -43.160476070777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1134,
+        "name": "NCI - Paul Matthews - (W) HAR5B",
+        "page": {
+          "line": [
+            {
+              "center": "CBD VIA"
+            },
+            {
+              "left": "SH1",
+              "right": 15
+            },
+            {
+              "left": "SH18/16",
+              "right": 26
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 2,
+        "journey": {
+          "id": 2,
+          "name": "SH18",
+          "startLatitude": -36.7503958259866,
+          "startLongitude": 174.727653470689,
+          "endLatitude": -36.7842324638418,
+          "endLongitude": 174.670568834017,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Greenhithe to Constellation",
+          "totalLength": 6.70611008387163,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.719228, -36.751135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1160,
+        "name": "NCI - Pinehill (S)",
+        "page": {
+          "line": [
+            {
+              "center": "CITY CENTRE VIA"
+            },
+            {
+              "left": "SH1 ",
+              "right": "16 MINS"
+            },
+            {
+              "left": "SH18/16 ",
+              "right": "28 MINS"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Silverdale to Oteha",
+          "totalLength": 4.27,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.71677, -36.733488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1162,
+        "name": "WLG - PP2O - Winiata Link Road (N) VMS WLR01",
+        "page": {
+          "line": [
+            {
+              "left": "OTAKI ",
+              "right": 5
+            },
+            {
+              "left": "LEVIN",
+              "right": 20
+            },
+            {
+              "left": "SANSON",
+              "right": 62
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 10,
+        "journey": {
+          "id": 10,
+          "name": "SH1",
+          "startLatitude": -40.7330969437524,
+          "startLongitude": 175.20082410657,
+          "endLatitude": -41.3120976776319,
+          "endLongitude": 174.793594277239,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Otaki to Peka Peka",
+          "totalLength": 11.1666156393048,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.13176, -40.78978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1165,
+        "name": "WLG - PP2O - Otaki Rail Overpass (N) VMS ORO02",
+        "page": {
+          "line": [
+            {
+              "left": "LEVIN",
+              "right": 18
+            },
+            {
+              "left": "SANSON",
+              "right": 59
+            },
+            {
+              "center": ""
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 9,
+          "name": "Wellington"
+        },
+        "TasJourneyId": 346,
+        "journey": {
+          "id": 346,
+          "name": "SH1P",
+          "startLatitude": -40.7449971831582,
+          "startLongitude": 175.168951543636,
+          "endLatitude": -40.8353219487609,
+          "endLongitude": 175.090433935051,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Otaki to Peka Peka",
+          "totalLength": 12.368,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.15872, -40.75931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1175,
+        "name": "P2WK - Kaipara Flats Rd (S)",
+        "page": {
+          "line": [
+            {
+              "left": "OTEHA ",
+              "right": "27 MINS"
+            },
+            {
+              "left": "SH18 ",
+              "right": "31 MINS"
+            },
+            {
+              "left": "FANSHAWE",
+              "right": "40 MINS"
+            },
+            {
+              "center": "VIA MOTORWAY"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Wellsford to Warkworth",
+          "totalLength": 35.75,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.64149, -36.38648887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1176,
+        "name": "P2WK - Hudson Road (N)",
+        "page": {
+          "line": [
+            {
+              "left": "WELLSFORD ",
+              "right": "17 MINS"
+            },
+            {
+              "left": "SH12 ",
+              "right": "39 MINS"
+            },
+            {
+              "left": "WHANGAREI ",
+              "right": "1h 34m"
+            },
+            {
+              "center": "VIA SH1"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Wellsford to Warkworth",
+          "totalLength": 35.75,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6494503, -36.39117171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1177,
+        "name": "P2WK - Matakana Link Rd (N)",
+        "page": {
+          "line": [
+            {
+              "left": "OTEHA ",
+              "right": "27 MINS"
+            },
+            {
+              "left": "SH18 ",
+              "right": "31 MINS"
+            },
+            {
+              "left": "FANSHAWE",
+              "right": "40 MINS"
+            },
+            {
+              "center": "VIA MOTORWAY"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Wellsford to Warkworth",
+          "totalLength": 35.75,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6456991, -36.38942021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1180,
+        "name": "P2WK - Hungry Creek Rd (S)",
+        "page": {
+          "line": [
+            {
+              "left": "OTEHA ",
+              "right": "16 MINS"
+            },
+            {
+              "left": "SH18 ",
+              "right": "20 MINS"
+            },
+            {
+              "left": "FANSHAWE",
+              "right": "29 MINS"
+            },
+            {
+              "center": "VIA MOTORWAY"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Wellsford to Warkworth",
+          "totalLength": 35.75,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.670286, -36.517186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1193,
+        "name": "P2WK - Rest Area (N)",
+        "page": {
+          "line": [
+            {
+              "left": "OTEHA ",
+              "right": "16 MINS"
+            },
+            {
+              "left": "SH18 ",
+              "right": "20 MINS"
+            },
+            {
+              "left": "FANSHAWE",
+              "right": "29 MINS"
+            },
+            {
+              "center": "VIA MOTORWAY"
+            }
+          ],
+          "pageTime": 5
+        },
+        "updated": "2:30:43 pm",
+        "mode": "AUTOMATIC",
+        "virtual": false,
+        "enabled": 1,
+        "region": {
+          "id": 2,
+          "name": "Auckland"
+        },
+        "TasJourneyId": 3,
+        "journey": {
+          "id": 3,
+          "name": "SH1",
+          "startLatitude": -36.2229327967355,
+          "startLongitude": 174.488474545709,
+          "endLatitude": -37.1073339409989,
+          "endLongitude": 174.946044976379,
+          "time": "00:00:00"
+        },
+        "journeyLeg": {
+          "name": "Wellsford to Warkworth",
+          "totalLength": 35.75,
+          "sequenceNumber": 0,
+          "time": "00:00:00",
+          "effectiveSpeedLimit": 0,
+          "coverage": 0,
+          "flow": 0,
+          "freeFlowTime": 0
+        },
+        "type": "tts",
+        "uniq": "Traffic-time-sign-1193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.675187, -36.521453]
+      }
+    }
+  ]
+}
