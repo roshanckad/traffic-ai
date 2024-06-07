@@ -1,0 +1,42 @@
+[
+  {
+    "duration_low": 0,
+    "duration_high": 20,
+    "0%_over_phrase": "quick",
+    "10%_over_phrase": "longer than expected",
+    "25%_over_phrase": "unusually long delay",
+    "50%_over_phrase": "reconsider your need for this trip"
+  },
+  {
+    "duration_low": 20,
+    "duration_high": 45,
+    "0%_over_phrase": "manageable",
+    "10%_over_phrase": "taking longer than usual",
+    "25%_over_phrase": "very frustrating delay",
+    "50%_over_phrase": "seriously consider if this trip is necessary"
+  },
+  {
+    "duration_low": 45,
+    "duration_high": 120,
+    "0%_over_phrase": "decent pace",
+    "10%_over_phrase": "much longer than expected",
+    "25%_over_phrase": "extremely lengthy travel time",
+    "50%_over_phrase": "think twice before making this journey"
+  },
+  {
+    "duration_low": 120,
+    "duration_high": 180,
+    "0%_over_phrase": "steady journey",
+    "10%_over_phrase": "considerably delayed",
+    "25%_over_phrase": "severely extended travel time",
+    "50%_over_phrase": "strongly reconsider the necessity of this trip"
+  },
+  {
+    "duration_low": 180,
+    "duration_high": 9999,
+    "0%_over_phrase": "long but manageable",
+    "10%_over_phrase": "excessively long journey",
+    "25%_over_phrase": "exceptionally prolonged trip",
+    "50%_over_phrase": "question if this trip is worth the time"
+  }
+]
